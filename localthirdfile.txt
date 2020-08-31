@@ -1,2 +1,4 @@
 Hello!
 I'm the third file
+
+A new line is added in third under branch dev
