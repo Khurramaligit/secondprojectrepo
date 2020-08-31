@@ -2,3 +2,6 @@ This is first local repo file
 
 Hello!
 I'm the new file in the first file
+
+Hello!
+I'm the new line from branch newtestbranch
