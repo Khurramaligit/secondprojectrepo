@@ -1,2 +1,4 @@
 Hello World!
 I'm the second file of local repository
+
+This is new line in second file from remote repo
