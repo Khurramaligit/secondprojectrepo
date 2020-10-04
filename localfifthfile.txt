@@ -1,1 +1,3 @@
 This is another file for branch 'Dev'
+
+The second line in fifth file for HARD reset
