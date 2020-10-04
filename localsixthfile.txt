@@ -1,1 +1,3 @@
 This is sixth file for a new branch newtestbranch
+
+I'm the new line in the sixth file
